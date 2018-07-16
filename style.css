@@ -7,10 +7,6 @@ body, html {height: 100%}
      background-size: cover;
      min-height: 100%;
      }
-.logoimg{
-     background-image: url('Logoist.png');
-     min-height: 100%;
-     }
 .container{
      position: relative;
      }
@@ -24,9 +20,9 @@ body, html {height: 100%}
      }
 .topleft{
      position: absolute;
-     top: -55px;
-     left: -125px;
-     width: 40%;
+     top: 10px;
+     left: 10px;
+     width: 15%;
      color: white;
      opacity: 2;
      }
@@ -47,7 +43,7 @@ body, html {height: 100%}
 .border-hr{
      border: double white;
      margin: auto;
-     width: 80%;
+     width: 75%;
      }
 .text-pvg{
      color: white;
